@@ -14,4 +14,5 @@ param_*为传入参数，如果是拖动执行，param_*为路径
 ## 测试调用命令行的软件
 比如说 [qBittorrent](https://www.qbittorrent.org/)，这个软件是用来下载文件的，在设置里面可以设置，当新建下载任务时，调用外部软件，并且可以传入如文件名，保存路径之类的参数
 这时就可以用到本软件，本软件会显示出qBittorrent调用本软件时传入的参数，用于辅助开发
+
 https://github.com/Bili345679/drag_to_run/assets/49631330/dbd15e01-b0e7-4b41-91d9-aab4c4934a9d
