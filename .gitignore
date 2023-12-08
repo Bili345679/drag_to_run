@@ -1,2 +1,5 @@
 *.pyc
 python_sys_argv_log
+build/*
+dist/*
+*.spec
